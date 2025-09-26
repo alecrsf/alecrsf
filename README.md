@@ -7,9 +7,10 @@
 <hr>
 <h3 align="left">Worked and researched for:</h3>
 <p align="left", style="display: inline-block">
+<a href="https://www.worldbank.org/ext/en/home" target="blank"><img align="center" src="https://scorecard.worldbank.org/assets/images/social-share.jpg" height="50" width="60" /></a>
 <a href="https://www.ecb.europa.eu/home/html/index.en.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_European_Central_Bank.svg/1229px-Logo_European_Central_Bank.svg.png" alt="https://www.ecb.europa.eu/home/html/index.en.html" height="50" width="60" /></a>
 <a href="https://www.istat.it/" target="blank"><img align="center" src="https://www.unidata.unimib.it/wp-content/uploads/istat.png" height="50" width="50" /></a>
-<a href="https://www.renaultgroup.com/en/" target="blank"><img align="center" src="https://seeklogo.com/images/R/Renault-logo-25AC313F30-seeklogo.com.png" height="50" width="40" /></a>
+<a href="https://www.renaultgroup.com/en/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Renault_2021_Text.svg/120px-Renault_2021_Text.svg.png" height="50" width="40" /></a>
 </p>
 
 <hr>
