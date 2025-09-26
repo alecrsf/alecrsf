@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi there! <br> I'm Alessio 🇮🇹 🇪🇺 </h1> 
-<h3 align="center">MSc student in Statistical Sciences </h3>
+<h3 align="center">MSc in Statistical Sciences </h3>
 
 
 📃 **To know more about my projects visit my [website](https://alecrsf.netlify.app/), where you may also download my [curriculum vitae](https://alecrsf.netlify.app/media/cv.pdf).** 
