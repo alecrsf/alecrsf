@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi there! <br> I'm Alessio 🇮🇹🇪🇺</h1> 
+<h1 align="center"> 👋 Hi there! <br> I'm Alessio 🇮🇹 🇪🇺 </h1> 
 <h3 align="center">MSc student in Statistical Sciences </h3>
 
 
